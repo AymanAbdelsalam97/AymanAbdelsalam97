@@ -23,6 +23,10 @@ Languages and Tools:<br>
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff">
 <img src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=fff">
 <img src="https://img.shields.io/badge/-Github Pages-222222?logo=GithubPages&logoColor=fff">
+<br>
+<img src="https://img.shields.io/badge/-Adobe XD-FF61F6?logo=ADOBEXD&logoColor=fff">
+<img src="https://img.shields.io/badge/-Adobe XD-31A8FF?logo=AdobePhotoshop&logoColor=fff">
+<img src="https://img.shields.io/badge/-Adobe Acrobat Reader-EC1C24?logo=AdobeAcrobatReader&logoColor=fff">
 
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanAbdelsalam97&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAbdelsalam97&theme=react)](https://github.com/AyamanAbdelsalam97/github-readme-stats)
