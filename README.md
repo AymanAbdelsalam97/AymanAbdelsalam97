@@ -11,22 +11,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Did you know that hyperpolyglots can speak atleast 6 languages fluently, So if you count computer languages , I'm a hyperpolyglot...
 
 Languages and Tools:<br>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=fff">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=fff">
-<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=fff">
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff">
-<br>
+<div>
+<h3>Front-End</h3>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=fff"> <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff">
+  </div>
+
+<div>
+<h3>Back-End</h3>
 <img src="https://img.shields.io/badge/-GraphQl-E10098?logo=GraphQl&logoColor=fff">
 <img src="https://img.shields.io/badge/-HandleBarsJS-000000?logo=Handlebars&logoColor=fff">
 <img src="https://img.shields.io/badge/-NodeJS-339933?logo=NodeJs&logoColor=fff">
-<br>
+  </div>
+
+<div>
+<h3>Git-flow</h3>
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff">
 <img src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=fff">
 <img src="https://img.shields.io/badge/-Github Pages-222222?logo=GithubPages&logoColor=fff">
-<br>
+  </div>
+
+<div>
+<h3>Design</h3>
 <img src="https://img.shields.io/badge/-Adobe XD-FF61F6?logo=ADOBEXD&logoColor=fff">
 <img src="https://img.shields.io/badge/-Adobe XD-31A8FF?logo=AdobePhotoshop&logoColor=fff">
 <img src="https://img.shields.io/badge/-Adobe Acrobat Reader-EC1C24?logo=AdobeAcrobatReader&logoColor=fff">
+  </div>
+  <br>
 
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanAbdelsalam97&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAbdelsalam97&theme=react)](https://github.com/AyamanAbdelsalam97/github-readme-stats)
