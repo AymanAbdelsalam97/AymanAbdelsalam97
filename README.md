@@ -25,7 +25,7 @@ Languages and Tools:<br>
 <div>
 <h3>Back-End</h3>
 <img src="https://img.shields.io/badge/-GraphQl-E10098?logo=GraphQl&logoColor=fff">
-<img src="https://img.shields.io/badge/-NodeJS-339933?logo=NodeJs&logoColor=fff">
+<img src="https://img.shields.io/badge/-NodeJS-339933?logo=Node.Js&logoColor=fff">
 <img src="https://img.shields.io/badge/-TypeOrm-262627?logo=Typeorm&logoColor=fff">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff">
   </div>
