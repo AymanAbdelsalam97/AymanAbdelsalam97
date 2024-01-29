@@ -16,7 +16,26 @@ Languages and Tools:<br>
 <h3>IDE</h3>
 <img src="https://img.shields.io/badge/-Visual studio code-007ACC?logo=VisualStudioCode&logoColor=fff">
 </div>
+<div>
+<h2>Deployment</h3>
+  <h2>Front-End</h3>
+  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff">
+  <img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=fff">
+    <div>
+    <h2>Back-End</h3>
+  <img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=fff">
 
+<h2>Media</h3>
+    <div>
+      <img src="https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=fff">
+      </div>
+      <h2>Database</h3>
+    <div>
+      <h3>Postgres  hosted on </h3>
+  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff">
+      </div>
+</div>
+</div>
 <div>
 <h3>Front-End</h3>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=fff">
@@ -40,6 +59,8 @@ Languages and Tools:<br>
 <img src="https://img.shields.io/badge/-TypeOrm-262627?logo=Typeorm&logoColor=fff">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=fff">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff">
+  <img src="https://img.shields.io/badge/-PostgresSQL-4169E1?logo=postgresql&logoColor=fff">
 
   </div>
 <div>
