@@ -1,4 +1,4 @@
-### Hi there 👋 fellow coders, I'm Ayman Abdelsalam a student trying to become a Junior Fullstack developer.
+### Hi there 👋 fellow coders, I'm Ayman Abdelsalam fresh graduate trying to get hired as a Junior Fullstack developer.
 
 <!--
 **AymanAbdelsalam97/AymanAbdelsalam97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
