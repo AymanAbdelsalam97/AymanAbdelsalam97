@@ -61,6 +61,7 @@ Languages and Tools:<br>
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=fff">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff">
   <img src="https://img.shields.io/badge/-PostgresSQL-4169E1?logo=postgresql&logoColor=fff">
+<img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white">
 
   </div>
 <div>
