@@ -5,8 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I recently acquired my Degree @Artevelde Hogeschool Ghent
-- 🌱 I’m currently learning full-stack development
+- 🔭 I recently acquired my associate's degree in full-stack programming @Artevelde Hogeschool Ghent.
+- 🌱 I’m currently learning full-stack development.
 - 💬 Ask me about ReactJs or anything you see here.
 - Loving the Nextjs App router.
 - ⚡ Fun fact: Did you know that hyperpolyglots can speak atleast 6 languages fluently, So if you count computer languages , I'm a hyperpolyglot...
@@ -21,9 +21,11 @@ Languages and Tools:<br>
   <h2>Front-End</h3>
   <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff">
   <img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=fff">
+  (Self hosting on a virtual private server using Coolify)
     <div>
     <h2>Back-End</h3>
   <img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=fff">
+  <img src="https://img.shields.io/badge/-Nextjs-000000?logo=nextdotjs&logoColor=fff">
 
 <h2>Media</h3>
     <div>
@@ -61,7 +63,7 @@ Languages and Tools:<br>
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=Laravel&logoColor=fff">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff">
   <img src="https://img.shields.io/badge/-PostgresSQL-4169E1?logo=postgresql&logoColor=fff">
-<img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white">
 
   </div>
 <div>
