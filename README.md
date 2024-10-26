@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My Degree @Artevelde Hogeschool Ghent
+- 🔭 I recently acquired my Degree @Artevelde Hogeschool Ghent
 - 🌱 I’m currently learning full-stack development
 - 💬 Ask me about ReactJs or anything you see here.
 - Loving the Nextjs App router.
